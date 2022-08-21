@@ -240,3 +240,5 @@ const tick = () =>
 }
 
 tick()
+
+gui.hide()
